@@ -1,3 +1,15 @@
+import shImg from "../assets/images/sh.svg";
+import wordImg from "../assets/images/wordpress.png";
+import wixImg from "../assets/images/wix.png";
+import webImg from "../assets/images/web.png";
+import htmlImg from "../assets/images/html.avif";
+import cssImg from "../assets/images/css.png";
+import jsImg from "../assets/images/js.png";
+import linuxImg from "../assets/images/linux.svg";
+import teamImg from "../assets/images/team.png";
+import speedImg from "../assets/images/speed.jpg";
+import themeImg from "../assets/images/theme.png";
+import liqImg from "../assets/images/liq.jpg";
 export default function Skill() {
   return (
     <section id="skills" className="min-h-screen w-full bg-[#1D546D] text-[#F3F4F4]">
@@ -12,18 +24,18 @@ export default function Skill() {
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-10">
 
           {[
-            { img: "src/assets/images/sh.svg", name: "Shopify" },
-            { img: "src/assets/images/wordpress.png", name: "Wordpress" },
-            { img: "src/assets/images/wix.png", name: "Wix" },
-            { img: "src/assets/images/web.png", name: "Webflow" },
-            { img: "src/assets/images/html.avif", name: "HTML" },
-            { img: "src/assets/images/css.png", name: "CSS" },
-            { img: "src/assets/images/js.png", name: "JavaScript" },
-            { img: "src/assets/images/linux.svg", name: "CMS" },
-            { img: "src/assets/images/team.png", name: "Team Lead" },
-            { img: "src/assets/images/speed.jpg", name: "Page Speed Optimization" },
-            { img: "src/assets/images/theme.png", name: "Theme Customization" },
-            { img: "src/assets/images/liq.jpg", name: "Liquid Templating Language" },
+            { img: "{shImg}", name: "Shopify" },
+            { img: "{wordImg}", name: "Wordpress" },
+            { img: "{wixImg}", name: "Wix" },
+            { img: "{webImg}", name: "Webflow" },
+            { img: "{htmlImg}", name: "HTML" },
+            { img: "{cssImg}", name: "CSS" },
+            { img: "{jsImg}", name: "JavaScript" },
+            { img: "{linuxImg}", name: "CMS" },
+            { img: "{teamImg}", name: "Team Lead" },
+            { img: "{speedImg}", name: "Page Speed Optimization" },
+            { img: "{themeImg}", name: "Theme Customization" },
+            { img: "{liqImg}", name: "Liquid Templating Language" },
           ].map((skill, index) => (
             <div
               key={index}
