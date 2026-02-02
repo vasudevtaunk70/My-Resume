@@ -9,7 +9,7 @@ export default function Education() {
                     <div className="bg-[#2e2f34] rounded-xl p-6 flex flex-col items-center shadow-lg">
                         <h3 className="text-xl font-semibold mb-1">Graduation</h3>
                         <p className="text-sm text-gray-300 mb-4">2011 – 2015</p>
-                        <img src="{btechImg}" alt="Graduation" className="w-16 h-16 mb-4" />
+                        <img src={btechImg} alt="Graduation" className="w-16 h-16 mb-4" />
                         <div className="text-sm space-y-2">
                             <p><b>Course :</b> B-Tech</p>
                             <p><b>Stream :</b> Electronics & Communication Engineering</p>
@@ -20,7 +20,7 @@ export default function Education() {
                     <div className="bg-[#2e2f34] rounded-xl p-6 flex flex-col items-center shadow-lg">
                         <h3 className="text-xl font-semibold mb-1">Higher Secondary</h3>
                         <p className="text-sm text-gray-300 mb-4">2009 – 2011</p>
-                        <img src="{rbseImg}"  alt="Higher Secondary" className="w-16 h-16 mb-4" />
+                        <img src={rbseImg}  alt="Higher Secondary" className="w-16 h-16 mb-4" />
                         <div className="text-sm space-y-2">
                             <p><b>Course :</b> 12th</p>
                             <p><b>Stream :</b> Physics, Chemistry & Maths</p>
@@ -31,7 +31,7 @@ export default function Education() {
                     <div className="bg-[#2e2f34] rounded-xl p-6 flex flex-col items-center shadow-lg">
                         <h3 className="text-xl font-semibold mb-1">Secondary School</h3>
                         <p className="text-sm text-gray-300 mb-4">2009</p>
-                        <img src="{rbseImg}" alt="Secondary School" className="w-16 h-16 mb-4"/>
+                        <img src={rbseImg} alt="Secondary School" className="w-16 h-16 mb-4"/>
                         <div className="text-sm space-y-2">
                             <p><b>Course :</b> 10th</p>
                             <p><b>Stream :</b> All</p>
