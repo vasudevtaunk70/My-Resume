@@ -1,10 +1,11 @@
+import profileImg from "../assets/images/creating-cover-letter.png";
 export default function About() {
   return (
     <section id="about" className="min-h-screen w-full bg-[#1D546D] text-[#F3F4F4]">    
         <div className="max-w-7xl mx-auto px-6 min-h-screen flex items-center">        
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center w-full">                    
                 <div className="flex justify-center">
-                    <img src="src/assets/images/creating-cover-letter.png" alt="Profile" className="w-72 h-72 object-cover rounded-2xl shadow-lg"/>
+                    <img src="{profileImg}" alt="Profile" className="w-72 h-72 object-cover rounded-2xl shadow-lg"/>
                 </div>            
                 <div>
                     <h2 className="text-4xl font-bold mb-4"> About Me </h2>
