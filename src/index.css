@@ -1,0 +1,21 @@
+@import "tailwindcss";
+[data-theme="dark"] .bg-\[\#F3F4F4\]{    
+    background-color: #F6F0D7;
+}
+[data-theme="dark"] .bg-\[\#5F9598\]{
+    background-color: #C5D89D;    
+}
+[data-theme="dark"] .bg-\[\#1D546D\]{
+    background-color: #9CAB84;    
+}
+.text-gray-600 {
+    color: #F6F0D7;
+}
+
+nav.navbar button {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    background: #5f9598;
+    color: #f3f4f4;
+}
