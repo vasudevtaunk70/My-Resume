@@ -5,7 +5,24 @@ export default function Exp() {
                 <h2 className="text-4xl font-bold text-center text-white mb-14">
                     Experience
                 </h2>                
-                <div className="space-y-8">                
+                <div className="space-y-8">  
+                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg">
+                        <h3 className="text-2xl font-semibold text-white">
+                            Web Developer
+                        </h3>
+                        <div className="mt-4 space-y-6">
+                            <div>
+                                <h4 className="text-lg font-semibold text-white">
+                                    Ranktubosys
+                                </h4>
+                                <p className="text-sm text-gray-400">
+                                    Dec 2025 – Working
+                                </p>
+                                <p className="text-gray-300 mt-1">                                    
+                                </p>
+                            </div>                        
+                        </div>
+                    </div>
                     <div className="bg-[#27292d] rounded-xl p-6 shadow-lg">
                         <h3 className="text-2xl font-semibold text-white">
                             Shopify Developer
