@@ -1,7 +1,7 @@
 import shopifyImg from "../assets/images/2.png";
-import btechImg from "../assets/images/btech.webp";
-import btechImg from "../assets/images/btech.webp";
-import btechImg from "../assets/images/btech.webp";
+import wordImg from "../assets/images/3.png";
+import devImg from "../assets/images/4.png";
+import seoImg from "../assets/images/5.png";
 
 export default function Projects() {
   return (
@@ -19,7 +19,7 @@ export default function Projects() {
           {/* Image */}
           <div className="flex justify-center">
             <img
-              src={shopifyImg}
+              src={seoImg}
               alt="DataMorph"
               className="w-40 md:w-48 rounded-xl shadow-lg"
             />
@@ -45,7 +45,7 @@ export default function Projects() {
           {/* Image */}
           <div className="flex justify-center md:order-2">
             <img
-              src="https://play-lh.googleusercontent.com/arjwweu2ecu2V3OWozZUYYm67xWir-8njlyBtmayu33nhmZTFuBZ_E5ZkJe2-loNhg=w240-h480-rw"
+              src={shopifyImg}
               alt="Sketch Tab"
               className="w-40 md:w-48 rounded-xl shadow-lg"
             />
@@ -70,7 +70,7 @@ export default function Projects() {
           {/* Image */}
           <div className="flex justify-center">
             <img
-              src="https://github.com/smv1999/datamorph/blob/main/assets/datamorph.jpg?raw=true"
+              src="{devImg}"
               alt="DataMorph"
               className="w-40 md:w-48 rounded-xl shadow-lg"
             />
@@ -95,7 +95,7 @@ export default function Projects() {
           {/* Image */}
           <div className="flex justify-center md:order-2">
             <img
-              src="https://play-lh.googleusercontent.com/arjwweu2ecu2V3OWozZUYYm67xWir-8njlyBtmayu33nhmZTFuBZ_E5ZkJe2-loNhg=w240-h480-rw"
+              src={wordImg}
               alt="Sketch Tab"
               className="w-40 md:w-48 rounded-xl shadow-lg"
             />
