@@ -1,15 +1,15 @@
-import shImg from "../assets/images/sh.svg";
-import wordImg from "../assets/images/wordpress.png";
-import wixImg from "../assets/images/wix.png";
-import webImg from "../assets/images/web.png";
-import htmlImg from "../assets/images/html.avif";
-import cssImg from "../assets/images/css.png";
-import jsImg from "../assets/images/js.png";
-import linuxImg from "../assets/images/linux.svg";
-import teamImg from "../assets/images/team.png";
-import speedImg from "../assets/images/speed.jpg";
-import themeImg from "../assets/images/theme.png";
-import liqImg from "../assets/images/liq.jpg";
+import shImg from "/src/assets/images/sh.svg";
+import wordImg from "/src/assets/images/wordpress.png";
+import wixImg from "/src/assets/images/wix.png";
+import webImg from "/src/assets/images/web.png";
+import htmlImg from "/src/assets/images/html.avif";
+import cssImg from "/src/assets/images/css.png";
+import jsImg from "/src/assets/images/js.png";
+import linuxImg from "/src/assets/images/linux.svg";
+import teamImg from "/src/assets/images/team.png";
+import speedImg from "/src/assets/images/speed.jpg";
+import themeImg from "/src/assets/images/theme.png";
+import liqImg from "/src/assets/images/liq.jpg";
 export default function Skill() {
   return (
     <section id="skills" className="min-h-screen w-full bg-[#1D546D] text-[#F3F4F4]">
