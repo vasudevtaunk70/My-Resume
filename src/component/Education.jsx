@@ -1,5 +1,5 @@
-import btechImg from "/src/assets/images/btech.webp";
-import rbseImg from "/src/assets/images/10.png";
+import btechImg from "../assets/images/btech.webp";
+import rbseImg from "../assets/images/10.png";
 export default function Education() {
     return (
         <section id="education" className="min-h-screen w-full bg-[#5F9598] text-[#F3F4F4]">      

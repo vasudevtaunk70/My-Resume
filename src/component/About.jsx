@@ -1,3 +1,4 @@
+import profileImg from '../assets/images/creating-cover-letter.png'
 export default function About() {
   return (
     <section id="about" className="min-h-screen w-full bg-[#1D546D] text-[#F3F4F4]">    
