@@ -1,3 +1,8 @@
+import shopifyImg from "../assets/images/2.png";
+import btechImg from "../assets/images/btech.webp";
+import btechImg from "../assets/images/btech.webp";
+import btechImg from "../assets/images/btech.webp";
+
 export default function Projects() {
   return (
     <section id="projects"  className="min-h-screen w-full bg-[#1D546D] text-[#F3F4F4]">
@@ -14,7 +19,7 @@ export default function Projects() {
           {/* Image */}
           <div className="flex justify-center">
             <img
-              src="https://github.com/smv1999/datamorph/blob/main/assets/datamorph.jpg?raw=true"
+              src={shopifyImg}
               alt="DataMorph"
               className="w-40 md:w-48 rounded-xl shadow-lg"
             />
