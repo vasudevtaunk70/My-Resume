@@ -1,7 +1,7 @@
-import shopifyImg from "../assets/images/2.png";
-import wordImg from "../assets/images/3.png";
+import shopifyImg from "../assets/images/2.jpg";
+import wordImg from "../assets/images/3.jpg";
 import devImg from "../assets/images/4.png";
-import seoImg from "../assets/images/5.png";
+import seoImg from "../assets/images/5.webp";
 
 export default function Projects() {
   return (
