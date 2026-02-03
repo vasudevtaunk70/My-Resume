@@ -70,7 +70,7 @@ export default function Projects() {
           {/* Image */}
           <div className="flex justify-center">
             <img
-              src="{devImg}"
+              src={devImg}
               alt="DataMorph"
               className="w-40 md:w-48 rounded-xl shadow-lg"
             />
