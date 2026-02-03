@@ -20,8 +20,8 @@ export default function Projects() {
           <div className="flex justify-center">
             <img
               src={seoImg}
-              alt="DataMorph"
-              className="w-40 md:w-48 rounded-xl shadow-lg"
+              alt="SEO"
+              className="w-40 md:w-48 rounded-xl shadow-lg project_img"
             />
           </div>
 
@@ -46,8 +46,8 @@ export default function Projects() {
           <div className="flex justify-center md:order-2">
             <img
               src={shopifyImg}
-              alt="Sketch Tab"
-              className="w-40 md:w-48 rounded-xl shadow-lg"
+              alt="Shopify"
+              className="w-40 md:w-48 rounded-xl shadow-lg project_img"
             />
           </div>
 
@@ -71,8 +71,8 @@ export default function Projects() {
           <div className="flex justify-center">
             <img
               src={devImg}
-              alt="DataMorph"
-              className="w-40 md:w-48 rounded-xl shadow-lg"
+              alt="Shopify"
+              className="w-40 md:w-48 rounded-xl shadow-lg project_img"
             />
           </div>
 
@@ -96,8 +96,8 @@ export default function Projects() {
           <div className="flex justify-center md:order-2">
             <img
               src={wordImg}
-              alt="Sketch Tab"
-              className="w-40 md:w-48 rounded-xl shadow-lg"
+              alt="Wordpress"
+              className="w-40 md:w-48 rounded-xl shadow-lg project_img"
             />
           </div>
 
