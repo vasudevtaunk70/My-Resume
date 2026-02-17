@@ -5,11 +5,11 @@ import webImg from "../assets/images/web.png";
 import htmlImg from "../assets/images/html.png";
 import cssImg from "../assets/images/css.png";
 import jsImg from "../assets/images/js.png";
-import linuxImg from "../assets/images/team.png";
+import cmsImg from "../assets/images/cms.png";
 import teamImg from "../assets/images/team.png";
-import speedImg from "../assets/images/speed.jpg";
+import speedImg from "../assets/images/speed.png";
 import themeImg from "../assets/images/theme.png";
-import liqImg from "../assets/images/liq.jpg";
+import liqImg from "../assets/images/liquid.png";
 export default function Skill() {
   return (
     <section id="skills" className="min-h-screen w-full bg-[#1D546D] text-[#F3F4F4]">
@@ -31,7 +31,7 @@ export default function Skill() {
             { img: htmlImg, name: "HTML" },
             { img: cssImg, name: "CSS" },
             { img: jsImg, name: "JavaScript" },
-            { img: linuxImg, name: "CMS" },
+            { img: cmsImg, name: "CMS" },
             { img: teamImg, name: "Team Lead" },
             { img: speedImg, name: "Page Speed Optimization" },
             { img: themeImg, name: "Theme Customization" },
