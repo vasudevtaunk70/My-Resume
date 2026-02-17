@@ -41,7 +41,7 @@ export default function Exp() {
                             </div>                        
                         </div>
                     </div>
-                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg lg:col-span-1">
+                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg">
                         <h3 className="text-2xl font-semibold text-white">
                             Wordpress Developer
                         </h3>
