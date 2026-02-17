@@ -1,7 +1,7 @@
 export default function Exp() {
     return (
         <section id="experience" className="min-h-screen w-full bg-[#5F9598] text-[#F3F4F4]">
-            <div class="max-w-7xl mx-auto px-6 py-10">
+            <div class="max-w-6xl mx-auto px-6 py-20">
                 <h2 className="text-4xl font-bold text-center text-white mb-14">
                     Experience
                 </h2>                   
