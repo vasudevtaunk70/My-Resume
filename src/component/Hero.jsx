@@ -20,7 +20,7 @@ export default function Hero() {
             <h1 className="text-6xl leading-[1.5] font-500">Hello, I am Vasu Dev Taunk</h1>
             <h2 className="text-6xl leading-[1.5] font-[Bungee_Spice] font-black"><span style={{ color: "white" }}>{titles[currentIndex]}</span></h2>
             <p className="text-2xl leading-[1.5]">I build web using modern technologies.</p>
-            <a href="{resumefile}"  target="_blank">
+            <a href={resumefile}  target="_blank">
             <button className="text-white hover:text-black bg-sky-900 p-[10px] pl-[30px] pr-[30px] mt-[40px] ...">Resume</button>
             </a>
       </div>
