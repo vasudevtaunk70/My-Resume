@@ -14,11 +14,7 @@ export default function Hero() {
                 return () => clearInterval(interval);        
         }, []);
   return (
-    <section id="hero" className="hero pt-[100px] pb-[100px] flex items-center justify-center min-h-screen w-full bg-[#5F9598] text-[#F3F4F4]">
-        <video autoPlay loop muted playsInline className="background-video">
-            <source src={myVideo} type="video/mp4" />
-            Your browser does not support the video tag.
-        </video>
+    <section id="hero" className="hero pt-[100px] pb-[100px] flex items-center justify-center min-h-screen w-full bg-[#5F9598] text-[#F3F4F4]">        
         <div className="items-center">
             <h1 className="text-6xl leading-[1.5] font-500">Hello, I am Vasu Dev Taunk</h1>
             <h2 className="text-6xl leading-[1.5] font-[Bungee_Spice] font-black"><span style={{ color: "white" }}>{titles[currentIndex]}</span></h2>
