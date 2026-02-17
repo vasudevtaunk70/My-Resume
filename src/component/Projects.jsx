@@ -31,10 +31,7 @@ export default function Projects() {
               SEO Developement
             </h3>
             <p className="text-gray-600 mb-2">
-              A package that allows you to convert your data between different formats.
-            </p>
-            <p className="text-gray-600 mb-5">
-              Supports YAML, JSON, CSV and INI with multiple conversion options.
+              Complete on-page and technical SEO setup to improve website visibility, increase organic traffic, and rank higher on search engines like Google.
             </p>            
           </div>
         </div>
@@ -57,10 +54,7 @@ export default function Projects() {
               Shopify Speed Optimization
             </h3>
             <p className="text-gray-600 mb-2">
-              Offline drawing app with a clean and user-friendly interface.
-            </p>
-            <p className="text-gray-600 mb-5">
-              Play with creative tools and enjoy a smooth drawing experience.
+              Enhance Shopify store performance by reducing load time, optimizing theme code, compressing assets, and improving Core Web Vitals for better conversions.
             </p>            
           </div>
         </div>
@@ -82,10 +76,7 @@ export default function Projects() {
               Shopify Developement
             </h3>
             <p className="text-gray-600 mb-2">
-              A package that allows you to convert your data between different formats.
-            </p>
-            <p className="text-gray-600 mb-5">
-              Supports YAML, JSON, CSV and INI with multiple conversion options.
+              Customize Shopify themes according to your brand and business needs, including layout changes, feature additions, UI improvements, and functionality enhancements.
             </p>            
           </div>
         </div>        
@@ -107,10 +98,7 @@ export default function Projects() {
               Wordpress Speed Optimization
             </h3>
             <p className="text-gray-600 mb-2">
-              Offline drawing app with a clean and user-friendly interface.
-            </p>
-            <p className="text-gray-600 mb-5">
-              Play with creative tools and enjoy a smooth drawing experience.
+              Improve your WordPress website loading speed by optimizing code, images, caching, database, and server performance for better user experience and higher rankings.
             </p>            
           </div>
         </div>
