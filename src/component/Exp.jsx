@@ -41,7 +41,7 @@ export default function Exp() {
                             </div>                        
                         </div>
                     </div>
-                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg">
+                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg lg:col-span-1">
                         <h3 className="text-2xl font-semibold text-white">
                             Wordpress Developer
                         </h3>
@@ -58,7 +58,7 @@ export default function Exp() {
                             </div>                        
                         </div>
                     </div>
-                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg">
+                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg lg:col-span-1">
                         <h3 className="text-2xl font-semibold text-white">
                             Developement Facilitator (RYVP)
                         </h3>
@@ -75,7 +75,7 @@ export default function Exp() {
                             </div>                        
                         </div>
                     </div>
-                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg">
+                    <div className="bg-[#27292d] rounded-xl p-6 shadow-lg lg:col-span-1">
                         <h3 className="text-2xl font-semibold text-white">
                             Customer Technical Support
                         </h3>
