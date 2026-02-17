@@ -2,7 +2,7 @@ import shImg from "../assets/images/sh.svg";
 import wordImg from "../assets/images/wordpress.png";
 import wixImg from "../assets/images/wix.png";
 import webImg from "../assets/images/web.png";
-import htmlImg from "../assets/images/html.avif";
+import htmlImg from "../assets/images/html.png";
 import cssImg from "../assets/images/css.png";
 import jsImg from "../assets/images/js.png";
 import linuxImg from "../assets/images/team.png";
